@@ -19,3 +19,6 @@ Build a machine learning model to classify heart beat signals, introducing class
 - NumPy, Pandas
 - scikit-learn
 - Matplotlib
+
+## Dataset
+This project uses the MIT-BIH Arrhythmia Dataset. Due to size and licensing considerations, the dataset files are not included in this repository.
